@@ -1,0 +1,7 @@
+Pessoa[] novoVetor = new Pessoa[novoTamanho];
+				for (int i = 0; i < qtdCadastrados; i++) {
+					novoVetor[i] = pilotos[i];
+				}
+
+				pilotos = novoVetor;
+				MAX_ELEMENTOS = novoTamanho;
