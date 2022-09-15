@@ -1,4 +1,5 @@
-package aplicativos;
+package src.aplicativos;
+
 
 import java.io.IOException;
 import java.util.Scanner;
